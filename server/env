@@ -1,0 +1,5 @@
+MONGO_START=mongodb+srv://
+MONGO_USERNAME=aniket0411
+MONGO_PASSWORD=B49AfS6QAahGoXis
+MONGO_END=@cluster0.4akuh.mongodb.net/bug-destroyer?retryWrites=true&w=majority
+PORT=8080

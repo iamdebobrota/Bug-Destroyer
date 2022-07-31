@@ -1,2 +1,5 @@
-# Bug-Destroyer
-hackathon contest. We created this application withing 2 days. This app is all about Coders help. coder can raise their bug here, and anyone give solution for that 
+# Bugs-Destroyer
+
+
+
+<img src="https://pbs.twimg.com/media/FY-Y459WQAMPv5l?format=jpg&name=360x360" alt="https://pbs.twimg.com/media/FY-Y46CXEAA_-j5?format=jpg&name=360x360" />
