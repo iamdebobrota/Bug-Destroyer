@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #000;
+}
+.main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 80px;
+    width: 400px;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main span{
+    position: relative;
+    height: 100px;
+    width: 40px;
+    background: #000;
+    border-radius: 50px;
+    margin: 6px auto;
+    animation: anim 2s infinite ;
+    
+}
+.main .blue{
+    background-color: #4285f4;
+    animation-delay: 0s;
+}
+.main .red{
+    background-color: #db447d;
+    animation-delay: 0.5s;
+}
+.main .yellow{
+    background-color: #f4b400;
+    animation-delay: 1s;
+}
+.main .green{
+    background-color: #0f9d58;
+    animation-delay: 1.5s;
+}
+.main .bl{
+    background-color: #ab017d;
+    animation-delay: 2s;
+}
+.main .re{
+    background-color: #ce0034;
+    animation-delay: 2.5s;
+}
+.main .ye{
+    background-color: #1344d7;
+    animation-delay: 3s;
+}
+.main .gr{
+    background-color: #19daef;
+    animation-delay: 3.5s;
+}
+
+@keyframes anim {
+    0%{
+        height: 100px;
+    }
+    50%{
+        height: 230px;
+    }
+100%{
+    height: 100px;
+}
+}
+
